@@ -29,6 +29,8 @@ We offer Data Science Mentorship Program, Free Masterclasses and Podcasts
   python3 main.py -i "file.jpg"
   docker run --it -rm docker_image:tag
 ```
+
 <p align="center">
-![datatoproduction's Stats](https://github-readme-stats.vercel.app/api?username=datatoproduction&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=datatoproduction&theme=dracula&show_icons=true&hide_border=false&count_private=true">
 </p>
+
